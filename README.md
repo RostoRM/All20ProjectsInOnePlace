@@ -16,7 +16,7 @@ I have provided a source link to the repo on GitHub, which will have a basic des
 
 **3. Picture in Picture**: [GitHub](https://github.com/RostoRM/Picture-in-Picture) | [View Live](https://rostorm.github.io/Picture-in-Picture/)
 
-**4. Joke Teller **: [GitHub](https://github.com/RostoRM/JokeTeller) | [View Live](https://rostorm.github.io/JokeTeller/)
+**4. Joke Teller**: [GitHub](https://github.com/RostoRM/JokeTeller) | [View Live](https://rostorm.github.io/JokeTeller/)
 
 **5. Light To Dark Mode**: [GitHub](https://github.com/RostoRM/LightToDarkMode) | [View Live](https://rostorm.github.io/LightToDarkMode/)
 
@@ -26,7 +26,7 @@ I have provided a source link to the repo on GitHub, which will have a basic des
 
 **8. Music Player**: [GitHub](https://github.com/RostoRM/Music_Player) | [View Live](https://rostorm.github.io/Music_Player/)
 
-**9. Custom Countdown **: [GitHub](https://github.com/RostoRM/Custom_Countdown) | [View Live](https://rostorm.github.io/Custom_Countdown/)
+**9. Custom Countdown**: [GitHub](https://github.com/RostoRM/Custom_Countdown) | [View Live](https://rostorm.github.io/Custom_Countdown/)
 
 **10. Create_Bookmarks**: [GitHub](https://github.com/RostoRM/Create_Bookmarks) | [View Live](https://rostorm.github.io/Create_Bookmarks/)
 
